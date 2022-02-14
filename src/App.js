@@ -1,3 +1,3 @@
 export function App() {
-  return <textarea onPaste={console.debug}/>
+  return <div>App</div>
 }
